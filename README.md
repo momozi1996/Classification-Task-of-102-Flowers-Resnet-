@@ -2,7 +2,7 @@
 Classification Task of 102 Flowers (RESNET)
 
 
-#102个label：1-102， 每个类别27张图（jpg)
+#102 label：1-102， 每个类别27张图（jpg)
 #json封装了label的具体类别
 
 1) dataset: 
@@ -11,7 +11,7 @@ Classification Task of 102 Flowers (RESNET)
    
    For data, please contact the author's email address： bit_moyan@163.com 
    
- 2）trainning png:
+ 2）trainning jpg:
    
    ![image](https://user-images.githubusercontent.com/79295425/120150463-a996bb00-c21d-11eb-8e31-d9ba8e21d501.png)
 
